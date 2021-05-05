@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0; 
+    overflow: hidden; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background: url('img/fon12.jpg') no-repeat;*/
+    background-size: cover;
+}
+
+
+
+article {
+  z-index: 100;
+  width: 50%;
+  max-width: 400px;
+  font-size: 15px;
+  color: white;
+  padding: 20px;
+  border-radius: 0 0 5px 0; 
+  font-family: monospace;
+  position: absolute;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 1px #737373; 
+  background: rgba(0,0,0,0.4);
+}
+.article2 {
+  display: none;
+}
+
+ .hide{
+  display: none;
+ }
+
+ .show {
+  display: block;
+ }
+ #myCanvas{
+  cursor: none;
+}
+

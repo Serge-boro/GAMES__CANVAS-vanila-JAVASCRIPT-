@@ -1,0 +1,337 @@
+
+
+body {
+margin: 0;
+padding: 0;
+}
+
+
+
+#wrapper {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	/*background: url(img/fon11.jpg);*/
+	background-size: cover;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+#wrapper  i {
+	position: absolute;
+	top: -250;
+	background: rgba(255,255,255,0.5);
+	animation: animateStars linear infinite;
+	overflow: hidden;
+}
+
+@keyframes animateStars {
+	0% {
+		transform: translateY(0);
+	}
+	100% {
+		transform: translateY(100vh);
+	}
+}
+
+canvas {
+	cursor: none;
+	overflow: hidden;
+
+}
+
+
+#picture {
+	position: absolute;
+	top: 20px;
+	left:30px;
+}
+
+#picture img{
+	
+	margin: 10px;
+	float: left;
+	width: 50px;
+	height: 60px;
+	background-size: cover;
+	border-radius: 2px;
+	border-radius: 1.5em;
+}
+
+
+#picture2 {
+	position: absolute;
+	top: 20px;
+	left:30px;
+
+}
+
+#picture2 img{
+	
+	margin: 10px;
+	float: left;
+	width: 60px;
+	height: 60px;
+	background-size: cover;
+	border-radius: 2px;
+	border-radius: 1.5em;
+}
+
+
+#picture3 {
+	position: absolute;
+	top: 20px;
+	left:30px;
+
+}
+
+#picture3 img{
+	
+	margin: 10px;
+	float: left;
+	width: 60px;
+	height: 60px;
+	background-size: cover;
+	border-radius: 2px;
+	border-radius: 1.5em;
+}
+
+
+.pictures_bullit {
+	display: none;
+}
+		
+.progress {
+	position: absolute;
+	top: 30px;
+	left:710px;
+	display: none;	
+}
+
+progress[value] {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 450px;
+	height: 40px;
+}
+
+progress[value]::-webkit-progress-bar {
+	position: absolute;
+	background: url(img/fon11.jpg);
+	border-radius: 2px;
+	border-radius: 1.5em;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+
+progress[value]::-webkit-progress-value {
+	position:  absolute; 
+		background: url(img/rabbit.gif);
+		opacity: 0.9;
+		border-radius: 1.5em;
+		background-size: cover;
+	  }
+
+#status {
+	  	font-size: 0.1em;
+}
+
+
+.progress2 {
+	position: absolute;
+	top: 30px;
+	left: 1800px;	
+	background-size: cover;
+	display: none;
+}
+	 
+ meter::-webkit-meter-bar{
+	-webkit-appearance: none;
+	background-image: url(img/shit_rought.png);
+	position: relative;
+	background-size: cover;
+	width: 60px;
+	height: 60px;		
+}
+
+meter::-webkit-meter-optimum-value {
+	background-image: url(img/shit_smooth.png);
+	position: relative;
+	background-size: cover;
+	width: 60px;
+	height: 60px;
+	background-color: #140354;
+}
+
+
+#status2 {
+	  	font-size: 0.1em;
+}
+
+
+@media (max-width: 991px) {
+	canvas {
+		margin: -100px;
+	
+	}
+
+	#picture {
+	top: 0;
+	left:0;
+	}
+	#picture img {
+	width: 40px;
+	height: 40px;
+	}
+
+
+	#picture2 {
+	top: 0;
+	left: 0;
+	}
+	#picture2 img {
+		width: 40px;
+		height: 40px;
+	}
+
+	#picture3 {
+	top: 0;
+	left: 0;
+	}
+	#picture3 img {
+		width: 40px;
+		height: 40px;
+	}
+
+	.progress {
+	top: 10px;
+	left: 60px;	
+	}
+	
+	progress[value] {
+		width: 330px;
+		height: 30px;
+	}
+
+	.progress2 {
+		top: 10px;
+	left: 430px;	
+	}
+	meter::-webkit-meter-bar {
+	width: 40px;
+	height: 40px;
+}
+
+	meter::-webkit-meter-optimum-value {
+	width: 40px;
+	height: 40px;
+}
+
+
+}
+
+.final {
+	position:  absolute; 
+	background: url(img/matt.gif);
+	background-size: cover;
+	width: 1920px;
+	height: 1080px;
+	display:none;
+}
+
+ .final ul{
+
+margin: 500px 0 0 650px;
+width: 600px;
+box-shadow: 0 15px 40px rgba(0,0,0,1);
+}
+
+.final ul li {
+	position: relative;
+	list-style: none;
+	font-size: 2em;
+	padding: 10px;
+	color: #fff;
+	font-family: monospace;
+	cursor: pointer;
+	box-sizing: border-box;
+	transition: 0.5s;
+	margin: 40px;
+
+}
+
+.final ul li:hover { 
+	color:#111;
+ }
+
+
+.over {
+	position:  absolute; 
+	width: 0px;
+	height: 0px;
+	display:none;
+	/*cursor: none;*/
+}
+
+
+ .over ul{
+ margin: 100px 0 0 -120px;
+width: 200px;
+box-shadow: 0 15px 40px rgba(0,0,0,1);
+}
+
+.over ul li {
+	position: relative;
+	list-style: none;
+	font-size: 2em;
+	padding: 10px;
+	color: #fff;
+	font-family: monospace;
+	cursor: pointer;
+	box-sizing: border-box;
+	transition: 0.5s;
+	margin: 40px;
+
+}
+
+.over ul li:hover { 
+	color:#111;
+ }
+
+
+
+
+
+
+article {
+  z-index: 100;
+  width: 50%;
+  max-width: 400px;
+  font-size: 15px;
+  color: white;
+  padding: 20px;
+  border-radius: 0 0 5px 0; 
+  font-family: monospace;
+  position: absolute;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 1px #737373; 
+  background: rgba(0,0,0,0.4);
+}
+
+.article2 {
+  display: none;
+}
+
+.show{
+	display: block;
+};
+
+.hide {
+	display: none;
+}

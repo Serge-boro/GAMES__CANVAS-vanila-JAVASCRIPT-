@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0; 
+    overflow: hidden; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('img/fon12.jpg') no-repeat;
+    background-size: cover;
+}
+
+#cat {
+  position:  absolute; 
+  display: block;
+}
+#cat span.cat1{
+ position:  absolute; 
+background: url(img/cat6.png);
+  background-size: cover;
+  width: 115px;
+  height: 100px;
+  margin: 50px 520px;
+  display: block;
+}
+
+#cat span.cat2{
+  position:  absolute;
+  background: url(img/cat2.png);
+  background-size: cover;
+  width: 90px;
+  height: 110px;
+  margin: -10px -640px;
+  display: block;
+}
+
+#cat span.cat3{
+  position:  absolute; 
+  background: url(img/cat3.png);
+  background-size: cover;
+  width: 130px;
+  height: 150px;
+  margin: 100px 410px;
+  display: block;
+}
+
+#cat span.cat4{
+  position:  absolute; 
+  background: url(img/cat4.png);
+  background-size: cover;
+  width: 130px;
+  height: 120px;
+  margin: -110px -490px;
+  display: block;
+}
+
+#cat span.cat5{
+  position:  absolute; 
+  background: url(img/cat5.png);
+  background-size: cover;
+  width: 130px;
+  height: 120px;
+  margin: 270px 500px;
+  display: block;
+}
+
+#bone  {
+  position:  absolute; 
+} 
+
+#bone1 {
+  width: 120px;
+  height: 80px;
+  background: url(img/bone.png);
+  background-size: cover;
+  position:  absolute; 
+  margin: -1500px 2px 2px 2px;
+}
+
+#fish  {
+  position:  absolute;
+  display: block; 
+}
+#fish1 {
+  width: 80px;
+  height: 70px;
+  background: url(img/fish.png);
+  background-size: cover;
+  position:  absolute; 
+  margin: -1200px 2px 2px 2px; 
+  display: block; 
+}
+
+article {
+  z-index: 100;
+  width: 50%;
+  max-width: 400px;
+  font-size: 15px;
+  color: white;
+  padding: 20px;
+  border-radius: 0 0 5px 0; 
+  font-family: monospace;
+  position: absolute;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 1px #737373; 
+  background: rgba(0,0,0,0.4);
+}
+
+.article2 {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+.hide{
+  display: none;
+}
