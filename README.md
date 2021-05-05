@@ -7,5 +7,5 @@ JavaScript methods. All with vanilla JS.
 
  So don't be shy and be my guest...
  
- 
-![1](https://user-images.githubusercontent.com/65797418/117207872-501ba780-ada9-11eb-8cef-7b408ab2ea62.jpg)
+ ![1](https://user-images.githubusercontent.com/65797418/117208295-d0daa380-ada9-11eb-832e-1a7a9681851c.png)
+
