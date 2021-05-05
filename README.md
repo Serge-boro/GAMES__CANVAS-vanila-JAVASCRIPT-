@@ -7,5 +7,17 @@ JavaScript methods. All with vanilla JS.
 
  So don't be shy and be my guest...
  
- ![1](https://user-images.githubusercontent.com/65797418/117208295-d0daa380-ada9-11eb-832e-1a7a9681851c.png)
+!!!!!! Use the full screen monitor during time use games. If you will see some small part start pictures game  just refresh browser window page!!!!!!!
+
+## Bubbles_Game
+![14](https://user-images.githubusercontent.com/65797418/117211280-a559b800-adad-11eb-852a-9e7821a30e92.png)
+![15](https://user-images.githubusercontent.com/65797418/117211283-a5f24e80-adad-11eb-9755-02bbf00d5e04.png)
+![16](https://user-images.githubusercontent.com/65797418/117211285-a5f24e80-adad-11eb-9eea-a16bb7b13638.png)
+
+INSTRUCTION GAME:
+	 You would use a computer mouse for fly and making choice in the local menu options.
+   
+   
+
+
 
