@@ -7,7 +7,7 @@ JavaScript methods. All with vanilla JS.
 
  So don't be shy and be my guest...
  
-!!!!!! Use the full screen monitor during time use games. If you will see some small part start pictures game  just refresh browser window page!!!!!!!
+!!!!!! Use the full screen monitor during time using the games. If you will see some small part start pictures game  just refresh browser window page!!!!!!!
 
 ## Bubbles_Game
 ![14](https://user-images.githubusercontent.com/65797418/117211280-a559b800-adad-11eb-852a-9e7821a30e92.png)
