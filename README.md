@@ -41,6 +41,7 @@ INSTRUCTION GAME:
 DESCRIPTION:
 	The case of the feeds stray cats! In one of provincial place, on an ordinary early morning, all was same like always ...only you was surprising to find a couple local starving cats surround you.
 	Looking around you found a fishing rod, a small lake and ... a little worm calmly walked around the area....
+	
 	That cats will be happy and full first of all catch 2 worms. After that you can grab a fishing rod anf you will get a fish. If you can do the this twice go to the fish seller and take bones fish for cats. Tottaly on the map you can see five cats, so this way will be not easely and not fast. Stay calm and go to the next worm...
 	
 	INSTRUCTION GAME:
