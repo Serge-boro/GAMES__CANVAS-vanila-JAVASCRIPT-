@@ -37,11 +37,14 @@
 ![6](https://user-images.githubusercontent.com/65797418/117211656-2749e100-adae-11eb-9152-ce106c5f9a08.png)
 ![7](https://user-images.githubusercontent.com/65797418/117211657-2749e100-adae-11eb-861e-596d687d114b.png)
 
-	## Instruction 
-	That cats will be happy and full first of all catch 2 worms. After that you can grab a fishing rod and you will get a fish. If you can do this twice you can go to the 	fish seller and will take bones fish for cats. Tottaly on the map you can see five cats, so this way will be not easely and not fast. Stay calm and go to the next worm...
+## Instruction 
+That cats will be happy and full first of all catch 2 worms. After that you can grab a fishing rod and you will 
+get a fish. If you can do this twice you can go to the 	fish seller and will take bones fish for cats. Tottaly on 
+the map you can see five cats, so this way will be not easely and not fast. Stay calm and go to the next worm...
 	
 	DESCRIPTION:
-	The case of the feeds stray cats! In one of provincial place, on an ordinary early morning, all was same like always ...only you was surprising to find a couple local starving cats surround you.
+	The case of the feeds stray cats! In one of provincial place, on an ordinary early morning, 
+	all was same like always ...only you was surprising to find a couple local starving cats surround you.
 	Looking around you found a fishing rod, a small lake and ... a little worm calmly walked around the area....
 	
 	INSTRUCTION GAME:
