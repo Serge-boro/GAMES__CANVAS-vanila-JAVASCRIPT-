@@ -6,7 +6,17 @@
 
  So don't be shy and be my guest...
  
+## Notification 
+ This notification for people who want to check right writing code, not for who want to take relax. 
+Please don't judge this repository too strict in part writting code just because the games was creating a couple years ago. Pretty often you can find varables without camelCase, perhaps you can find 'var', some games was creatind without constructor method using same way to display pictures. I didn't fix it up just because every games includes more tham 300 varables similar like I mentioned and I just don't have the bunge huge time to fix all of these.
+
+
+Nowdays code you cann't find issues similar like I discribed above
+##############################################################################################################
+ 
 !!!!!! Use the full screen monitor during time using the games. If you will see some small part start pictures game  just refresh browser window page!!!!!!!
+
+###############################################################################################################
 
 ## Bubbles_Game
 ![14](https://user-images.githubusercontent.com/65797418/117211280-a559b800-adad-11eb-852a-9e7821a30e92.png)
