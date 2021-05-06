@@ -13,6 +13,9 @@
 ![15](https://user-images.githubusercontent.com/65797418/117211283-a5f24e80-adad-11eb-9755-02bbf00d5e04.png)
 ![16](https://user-images.githubusercontent.com/65797418/117211285-a5f24e80-adad-11eb-9eea-a16bb7b13638.png)
 
+## Instruction 
+Get the balloons as more as you can and don't allow bugs go through canvas window
+
 	INSTRUCTION GAME:
 	 You would use a computer mouse for fly and making choice in the local menu options.
 	 
@@ -21,6 +24,9 @@
 ![12](https://user-images.githubusercontent.com/65797418/117211504-ef429e00-adad-11eb-8f47-cff5b7350c08.png)
 ![13](https://user-images.githubusercontent.com/65797418/117211505-ef429e00-adad-11eb-8630-50041808c86d.png)
 
+## Instruction 
+Huntering for flying sheeps and avoid trash items  on your direction
+
 	INSTRUCTION GAME:
 	 You would use a computer mouse for fly and making choice in the local menu options.
 	 
@@ -28,6 +34,11 @@
 ![8](https://user-images.githubusercontent.com/65797418/117211579-0b463f80-adae-11eb-8856-f08063bbdf25.png)
 ![9](https://user-images.githubusercontent.com/65797418/117211581-0b463f80-adae-11eb-9295-803d484a4e67.png)
 ![10](https://user-images.githubusercontent.com/65797418/117211584-0bded600-adae-11eb-8abc-4de7a7f7c3b8.png)
+
+## Instruction 
+Go through the cosmo space avoiding meteorites and aliens ship bullets. 
+Your ship equipped with automatic guns but also you can find add bullets and shield supply for your ship.
+ Checking for the time and wish you luck to be succsess
 
 	INSTRUCTION GAME:
 	 You would use a computer mouse for fly and making choice in the local menu options.
