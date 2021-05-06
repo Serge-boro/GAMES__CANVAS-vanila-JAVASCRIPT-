@@ -12,11 +12,11 @@ Please don't judge this repository too strict in part writting code just because
 
 
 Nowdays code you cann't find issues similar like I discribed above
-##############################################################################################################
+##########################################################################################################
  
 !!!!!! Use the full screen monitor during time using the games. If you will see some small part start pictures game  just refresh browser window page!!!!!!!
 
-###############################################################################################################
+###########################################################################################################
 
 ## Bubbles_Game
 ![14](https://user-images.githubusercontent.com/65797418/117211280-a559b800-adad-11eb-852a-9e7821a30e92.png)
