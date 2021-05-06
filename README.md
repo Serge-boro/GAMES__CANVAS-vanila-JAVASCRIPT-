@@ -7,7 +7,7 @@
  So don't be shy and be my guest...
  
 ## Notification 
- This notification for people who want to check right writing code, not for who want to take relax. 
+ This notification for people who want to check right writing code, not who just want to take relax. 
 Please don't judge this repository too strict in part writting code just because the games was creating a couple years ago. Pretty often you can find varables without camelCase, perhaps you can find 'var', some games was creatind without constructor method using same way to display pictures. I didn't fix it up just because every games includes more than 300 varables similar like I mentioned and I just don't have the heaped huge time to fix all of these.
 
 
