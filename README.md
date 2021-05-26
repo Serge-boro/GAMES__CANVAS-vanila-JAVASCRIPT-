@@ -1,20 +1,21 @@
-  In this repository episode I showed you how to make games with JavaScript and HTML canvas from scratch with no libraries. In this cases I used sprite animation, keyboard input and build custom algorithm to control how often request animation method serves frames of animation loop using Data.now(), promise, constructor JavaScript methods. All with vanilla JS.
+  In this repository episode, I showed you how to make games with JavaScript and HTML canvas from scratch with no libraries. In these cases I used sprite animation, keyboard input, and build a custom algorithm to control how often the request animation method serves frames of the animation loop using Data.now(), promise, constructor JavaScript methods. All with vanilla JS.
 
-  The main gold this projects was improving practice JavaScript techniques that are useful for web development in general not just for games. 
-  
-  Images comes from general Google search, used for demonstration purposes only.
+The main gold this projects was improving practice JavaScript techniques that are useful for web development in general not just for games.
 
- So don't be shy and be my guest...
+Images come from general Google search, used for demonstration purposes only.
+
+So don't be shy and be my guest...
  
 ## Notification 
- This notification for people who want to check right writing code, not who just want to take relax. 
-Please don't judge this repository too strict in part writting code just because the games was creating a couple years ago. Pretty often you can find varables without camelCase, perhaps you can find 'var', some games was creatind without constructor method using same way to display pictures. I didn't fix it up just because every games includes more than 300 varables similar like I mentioned and I just don't have the heaped huge time to fix all of these.
+ This notification for people who want to check the right writing code, not those who just want to take relax. 
+ 
+Please don't judge this repository too strictly in part-writing code just because the games were creating a couple of years ago. Pretty often you can find variables without camelCase, perhaps you can find 'var', some games were created without the constructor method using the same way to display pictures. I didn't fix it up just because every game includes more than 300 variables similar like I mentioned and I just don't have the heaped huge time to fix all of these.
 
 
-Nowdays code you cann't find issues similar like I discribed above
+Nowadays code you can't find issues similar like I described above.
 ##########################################################################################################
  
-!!!!!! Use the full screen monitor during time using the games. If you will see some small part start pictures game  just refresh browser window page!!!!!!!
+!!!!!! Use the full-screen monitor during the time using the games. If you will see some small part start pictures game just refresh the browser window page!!!!!!!
 
 ###########################################################################################################
 
@@ -59,14 +60,12 @@ Your ship equipped with automatic guns but also you can find add bullets and shi
 ![7](https://user-images.githubusercontent.com/65797418/117211657-2749e100-adae-11eb-861e-596d687d114b.png)
 
 ## Instruction 
-That cats will be happy and full first of all catch 2 worms. After that you can grab a fishing rod and you will 
-get a fish. If you can do this twice you can go to the 	fish seller and will take bones fish for cats. Tottaly on 
-the map you can see five cats, so this way will be not easely and not fast. Stay calm and go to the next worm...
+That cats will be happy and full first of all catch 2 worms. After that, you can grab a fishing rod and you will get a fish. If you can do this twice you can go to the fish seller and will take bones fish for cats. Totally on the map, you can see five cats, so this way will be not easy and not fast. Stay calm and go to the next worm...
 	
 	DESCRIPTION:
-	The case of the feeds stray cats! In one of provincial place, on an ordinary early morning, 
-	all was same like always ...only you was surprising to find a couple local starving cats surround you.
-	Looking around you found a fishing rod, a small lake and ... a little worm calmly walked around the area....
+	The case of the feeds strays cats! In one provincial place, on an ordinary early morning, 
+	all was the same as always ...only you was surprising to find a couple of local starving cats surround you.
+	Looking around you found a fishing rod, a small lake, and ... a little worm calmly walked around the area...
 	
 	INSTRUCTION GAME:
 	 You can use your computer mouse for making choices in local menu options.
